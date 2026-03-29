@@ -1,0 +1,512 @@
+{
+  "project1": {
+    "title": "My Project Title hello",
+    "subtitle": "Project",
+    "year": "2026",
+    "type": "Residential",
+    "location": "India",
+    "area": "Multi-storey",
+    "category": "residential",
+    "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+    "details": [
+      {
+        "label": "Type",
+        "value": "Residential"
+      }
+    ],
+    "heroSrc": "../assets/projects/project1/9TH_SEM_C0_ST-7_BY_SA_PAGE-0001.jpg",
+    "date": "2026",
+    "tools": "AutoCAD, SketchUp, Photoshop",
+    "link": "https://example.com",
+    "description": [
+      "Line 1",
+      "Line 2"
+    ],
+    "images": [
+      {
+        "src": "../assets/projects/project1/9TH_SEM_C0_ST-7_BY_SA_PAGE-0001.jpg",
+        "caption": "9TH SEM C0 ST 7 BY SA PAGE 0001"
+      },
+      {
+        "src": "../assets/projects/project1/9TH_SEM_CS_ST-2_BY_SA.jpg",
+        "caption": "9TH SEM CS ST 2 BY SA"
+      },
+      {
+        "src": "../assets/projects/project1/9TH_SEM_CS_ST-3_BY_SA.jpg",
+        "caption": "9TH SEM CS ST 3 BY SA"
+      },
+      {
+        "src": "../assets/projects/project1/9TH_SEM_INTRO_ST-1_BY_SA.jpg",
+        "caption": "9TH SEM INTRO ST 1 BY SA"
+      },
+      {
+        "src": "../assets/projects/project1/9TH_SEM_LS_ST-5_BY_SA.jpg",
+        "caption": "9TH SEM LS ST 5 BY SA"
+      },
+      {
+        "src": "../assets/projects/project1/9TH_SEM_SA_ST-6_BY_SA.jpg",
+        "caption": "9TH SEM SA ST 6 BY SA"
+      },
+      {
+        "src": "../assets/projects/project1/ELEVATION.jpg",
+        "caption": "ELEVATION"
+      },
+      {
+        "src": "../assets/projects/project1/FIRST_FLOOR_PLAN.jpg",
+        "caption": "FIRST FLOOR PLAN"
+      },
+      {
+        "src": "../assets/projects/project1/FOUTH_FLOOR_PLAN.jpg",
+        "caption": "FOUTH FLOOR PLAN"
+      },
+      {
+        "src": "../assets/projects/project1/SECOND_FLOOR_PLAN.jpg",
+        "caption": "SECOND FLOOR PLAN"
+      },
+      {
+        "src": "../assets/projects/project1/SECTION.jpg",
+        "caption": "SECTION"
+      },
+      {
+        "src": "../assets/projects/project1/SITE_PLAN.jpg",
+        "caption": "SITE PLAN"
+      },
+      {
+        "src": "../assets/projects/project1/ST-2_(THRUST_AREA).jpg",
+        "caption": "ST 2 (THRUST AREA)"
+      },
+      {
+        "src": "../assets/projects/project1/TERRACE_FLOOR_PLAN.jpg",
+        "caption": "TERRACE FLOOR PLAN"
+      },
+      {
+        "src": "../assets/projects/project1/WHATSAPP_IMAGE_2026-03-16_AT_6.11.59_PM.jpeg",
+        "caption": "WHATSAPP IMAGE 2026 03 16 AT 6.11.59 PM"
+      }
+    ],
+    "downloads": [],
+    "metadata": {
+      "title": "My Project Title hello",
+      "subtitle": "Project",
+      "date": "2026",
+      "year": "2026",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com",
+      "description": [
+        "Line 1",
+        "Line 2"
+      ],
+      "type": "Residential",
+      "location": "India",
+      "area": "Multi-storey",
+      "category": "residential",
+      "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+      "details": [
+        {
+          "label": "Type",
+          "value": "Residential"
+        }
+      ]
+    }
+  },
+  "project2": {
+    "title": "project2",
+    "subtitle": "Project",
+    "year": "2026",
+    "type": "Project",
+    "location": "India",
+    "area": "Various",
+    "category": "public",
+    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
+    "details": [],
+    "heroSrc": "../assets/projects/project2/ADMIN_AND_SWIMMING_POOL_BLOCK.jpg",
+    "date": "",
+    "tools": "AutoCAD, SketchUp",
+    "link": "",
+    "description": [
+      "Project showcase."
+    ],
+    "images": [
+      {
+        "src": "../assets/projects/project2/ADMIN_AND_SWIMMING_POOL_BLOCK.jpg",
+        "caption": "ADMIN AND SWIMMING POOL BLOCK"
+      },
+      {
+        "src": "../assets/projects/project2/CASE_STUDY_1.jpg",
+        "caption": "CASE STUDY 1"
+      },
+      {
+        "src": "../assets/projects/project2/CASE_STUDY_2.jpg",
+        "caption": "CASE STUDY 2"
+      },
+      {
+        "src": "../assets/projects/project2/CASE_STUDY_3.jpg",
+        "caption": "CASE STUDY 3"
+      },
+      {
+        "src": "../assets/projects/project2/CONCEPT.jpg",
+        "caption": "CONCEPT"
+      },
+      {
+        "src": "../assets/projects/project2/MAIN_BUILDING_BLOCK_1.jpg",
+        "caption": "MAIN BUILDING BLOCK 1"
+      },
+      {
+        "src": "../assets/projects/project2/MAIN_BUILDING_BLOCK_2.jpg",
+        "caption": "MAIN BUILDING BLOCK 2"
+      },
+      {
+        "src": "../assets/projects/project2/PNEUMATIC_STRUCTURE_2.jpg",
+        "caption": "PNEUMATIC STRUCTURE 2"
+      },
+      {
+        "src": "../assets/projects/project2/PNEUMATIC_STRUCTURE.jpg",
+        "caption": "PNEUMATIC STRUCTURE"
+      },
+      {
+        "src": "../assets/projects/project2/SHEET_NO.7.jpg",
+        "caption": "SHEET NO.7"
+      },
+      {
+        "src": "../assets/projects/project2/SITE_ANALYIS.jpg",
+        "caption": "SITE ANALYIS"
+      },
+      {
+        "src": "../assets/projects/project2/SITE_PLAN.png",
+        "caption": "SITE PLAN"
+      },
+      {
+        "src": "../assets/projects/project2/STANDARDS_SHEET.jpg",
+        "caption": "STANDARDS SHEET"
+      }
+    ],
+    "downloads": [],
+    "metadata": {}
+  },
+  "project3": {
+    "title": "project3",
+    "subtitle": "Project",
+    "year": "2026",
+    "type": "Project",
+    "location": "India",
+    "area": "Various",
+    "category": "public",
+    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
+    "details": [],
+    "heroSrc": "../assets/projects/project3/0.jpg",
+    "date": "",
+    "tools": "AutoCAD, SketchUp",
+    "link": "",
+    "description": [
+      "Project showcase."
+    ],
+    "images": [
+      {
+        "src": "../assets/projects/project3/0.jpg",
+        "caption": "0"
+      },
+      {
+        "src": "../assets/projects/project3/1.jpg",
+        "caption": "1"
+      },
+      {
+        "src": "../assets/projects/project3/2.jpg",
+        "caption": "2"
+      },
+      {
+        "src": "../assets/projects/project3/3.jpg",
+        "caption": "3"
+      },
+      {
+        "src": "../assets/projects/project3/4.jpg",
+        "caption": "4"
+      },
+      {
+        "src": "../assets/projects/project3/5.jpg",
+        "caption": "5"
+      },
+      {
+        "src": "../assets/projects/project3/6.jpg",
+        "caption": "6"
+      },
+      {
+        "src": "../assets/projects/project3/7.png",
+        "caption": "7"
+      },
+      {
+        "src": "../assets/projects/project3/12.png",
+        "caption": "12"
+      },
+      {
+        "src": "../assets/projects/project3/13.png",
+        "caption": "13"
+      },
+      {
+        "src": "../assets/projects/project3/14.png",
+        "caption": "14"
+      },
+      {
+        "src": "../assets/projects/project3/15.png",
+        "caption": "15"
+      },
+      {
+        "src": "../assets/projects/project3/16.png",
+        "caption": "16"
+      },
+      {
+        "src": "../assets/projects/project3/17.png",
+        "caption": "17"
+      },
+      {
+        "src": "../assets/projects/project3/18.png",
+        "caption": "18"
+      },
+      {
+        "src": "../assets/projects/project3/19.png",
+        "caption": "19"
+      },
+      {
+        "src": "../assets/projects/project3/20.png",
+        "caption": "20"
+      },
+      {
+        "src": "../assets/projects/project3/21.png",
+        "caption": "21"
+      },
+      {
+        "src": "../assets/projects/project3/22.png",
+        "caption": "22"
+      },
+      {
+        "src": "../assets/projects/project3/23.png",
+        "caption": "23"
+      },
+      {
+        "src": "../assets/projects/project3/24.png",
+        "caption": "24"
+      },
+      {
+        "src": "../assets/projects/project3/25.png",
+        "caption": "25"
+      },
+      {
+        "src": "../assets/projects/project3/26.png",
+        "caption": "26"
+      },
+      {
+        "src": "../assets/projects/project3/29.png",
+        "caption": "29"
+      },
+      {
+        "src": "../assets/projects/project3/30.png",
+        "caption": "30"
+      },
+      {
+        "src": "../assets/projects/project3/31.png",
+        "caption": "31"
+      },
+      {
+        "src": "../assets/projects/project3/32.png",
+        "caption": "32"
+      },
+      {
+        "src": "../assets/projects/project3/33.png",
+        "caption": "33"
+      },
+      {
+        "src": "../assets/projects/project3/34.png",
+        "caption": "34"
+      },
+      {
+        "src": "../assets/projects/project3/37.png",
+        "caption": "37"
+      },
+      {
+        "src": "../assets/projects/project3/38.png",
+        "caption": "38"
+      },
+      {
+        "src": "../assets/projects/project3/39.png",
+        "caption": "39"
+      },
+      {
+        "src": "../assets/projects/project3/40.png",
+        "caption": "40"
+      },
+      {
+        "src": "../assets/projects/project3/41.png",
+        "caption": "41"
+      }
+    ],
+    "downloads": [],
+    "metadata": {}
+  },
+  "project4": {
+    "title": "project4",
+    "subtitle": "Project",
+    "year": "2026",
+    "type": "Project",
+    "location": "India",
+    "area": "Various",
+    "category": "public",
+    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
+    "details": [],
+    "heroSrc": "../assets/projects/project4/0.jpg",
+    "date": "",
+    "tools": "AutoCAD, SketchUp",
+    "link": "",
+    "description": [
+      "Project showcase."
+    ],
+    "images": [
+      {
+        "src": "../assets/projects/project4/0.jpg",
+        "caption": "0"
+      },
+      {
+        "src": "../assets/projects/project4/1.jpg",
+        "caption": "1"
+      },
+      {
+        "src": "../assets/projects/project4/2.jpg",
+        "caption": "2"
+      },
+      {
+        "src": "../assets/projects/project4/3.jpg",
+        "caption": "3"
+      },
+      {
+        "src": "../assets/projects/project4/4.jpg",
+        "caption": "4"
+      },
+      {
+        "src": "../assets/projects/project4/5.jpg",
+        "caption": "5"
+      },
+      {
+        "src": "../assets/projects/project4/6.jpg",
+        "caption": "6"
+      },
+      {
+        "src": "../assets/projects/project4/7.jpg",
+        "caption": "7"
+      },
+      {
+        "src": "../assets/projects/project4/8.jpg",
+        "caption": "8"
+      },
+      {
+        "src": "../assets/projects/project4/9.jpg",
+        "caption": "9"
+      },
+      {
+        "src": "../assets/projects/project4/10.jpg",
+        "caption": "10"
+      },
+      {
+        "src": "../assets/projects/project4/11.jpg",
+        "caption": "11"
+      },
+      {
+        "src": "../assets/projects/project4/12.jpg",
+        "caption": "12"
+      },
+      {
+        "src": "../assets/projects/project4/13.jpg",
+        "caption": "13"
+      },
+      {
+        "src": "../assets/projects/project4/14.jpg",
+        "caption": "14"
+      },
+      {
+        "src": "../assets/projects/project4/15.jpg",
+        "caption": "15"
+      },
+      {
+        "src": "../assets/projects/project4/16.jpg",
+        "caption": "16"
+      },
+      {
+        "src": "../assets/projects/project4/17.jpg",
+        "caption": "17"
+      },
+      {
+        "src": "../assets/projects/project4/18.jpg",
+        "caption": "18"
+      },
+      {
+        "src": "../assets/projects/project4/19.jpg",
+        "caption": "19"
+      },
+      {
+        "src": "../assets/projects/project4/20.jpg",
+        "caption": "20"
+      },
+      {
+        "src": "../assets/projects/project4/21.jpg",
+        "caption": "21"
+      },
+      {
+        "src": "../assets/projects/project4/22.jpg",
+        "caption": "22"
+      },
+      {
+        "src": "../assets/projects/project4/23.jpg",
+        "caption": "23"
+      },
+      {
+        "src": "../assets/projects/project4/24.jpg",
+        "caption": "24"
+      }
+    ],
+    "downloads": [],
+    "metadata": {}
+  },
+  "project5": {
+    "title": "project5",
+    "subtitle": "Project",
+    "year": "2026",
+    "type": "Project",
+    "location": "India",
+    "area": "Various",
+    "category": "public",
+    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
+    "details": [],
+    "heroSrc": "../assets/projects/project5/9.jpg",
+    "date": "",
+    "tools": "AutoCAD, SketchUp",
+    "link": "",
+    "description": [
+      "Project showcase."
+    ],
+    "images": [
+      {
+        "src": "../assets/projects/project5/9.jpg",
+        "caption": "9"
+      },
+      {
+        "src": "../assets/projects/project5/18.jpg",
+        "caption": "18"
+      },
+      {
+        "src": "../assets/projects/project5/19.jpg",
+        "caption": "19"
+      },
+      {
+        "src": "../assets/projects/project5/31.jpg",
+        "caption": "31"
+      },
+      {
+        "src": "../assets/projects/project5/32.jpg",
+        "caption": "32"
+      },
+      {
+        "src": "../assets/projects/project5/33.jpg",
+        "caption": "33"
+      }
+    ],
+    "downloads": [],
+    "metadata": {}
+  }
+}

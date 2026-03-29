@@ -1,0 +1,40 @@
+{
+  "notes": "Customize portfolio + project metadata here. Portfolio options feed generate-projects.js.",
+  "portfolio": {
+    "portfolioTitle": "Shashank Portfolio",
+    "portfolioDescription": "Selected academic and professional design work.",
+    "colorScheme": "modern",
+    "imagesPerRow": 3,
+    "gridSpacing": 10,
+    "pdfMargin": 20
+  },
+  "example": {
+    "project1": {
+      "title": "Your Custom Title",
+      "date": "2026",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com/project-1",
+      "description": [
+        "Short context line about the project objective.",
+        "Optional second sentence about the process or outcome."
+      ]
+    }
+  },
+   "project1": {
+      "title": "My Project Title hello",
+      "subtitle": "Project",
+      "date": "2026",
+      "year": "2026",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com",
+      "description": ["Line 1", "Line 2"],
+      "type": "Residential",
+      "location": "India",
+      "area": "Multi-storey",
+      "category": "residential",
+      "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+      "details": [
+        { "label": "Type", "value": "Residential" }
+      ]
+    }
+}

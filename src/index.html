@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shashank Agarwal — Architecture Portfolio 2026</title>
+    <link rel="icon" type="image/png" href="../assets/images/branding/transparent-logo.svg">
+    <style>
+        link[rel="icon"] {
+            border-radius: 50% !important;
+        }
+    </style>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400&family=DM+Sans:ital,wdth,wght@0,400,300..700;1,400,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- ============ NAVIGATION ============ -->
+    <nav class="nav" id="nav">
+        <a href="#home" class="nav-logo"><img src="../assets/images/branding/logo.svg" alt="Shashank Agarwal" class="nav-logo-img"></a>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="#works">Works</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div style="display: flex; align-items: center; gap: 1rem;">
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                <span class="theme-icon sun">☀</span>
+                <span class="theme-icon moon">☾</span>
+            </button>
+            <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- ============ HERO ============ -->
+    <section class="hero" id="home">
+        <div class="hero-grid-bg"></div>
+        <div class="hero-content">
+            <div class="hero-left">
+                <p class="hero-eyebrow fade-in fade-in-delay-1">Bachelor of Architecture · Class of 2026</p>
+                <h1 class="hero-title fade-in fade-in-delay-2">
+                    <span>Shashank</span>
+                    <span class="accent">Agarwal</span>
+                </h1>
+                <p class="hero-tagline fade-in fade-in-delay-3">
+                    Designing spaces that breathe meaning into material. Architecture as a dialogue between site,
+                    structure, and silence.
+                </p>
+                <div class="hero-cta fade-in fade-in-delay-4">
+                    <a href="#works" class="btn btn-primary"><span>View Selected Works</span></a>
+                    <a href="../public/portfolio.pdf" class="btn btn-ghost" download>Download Portfolio</a>
+                </div>
+            </div>
+            <div class="hero-right">
+                <img src="../assets/images/branding/transparent-logo.png" alt="Logo" class="hero-logo fade-in fade-in-delay-2">
+            </div>
+            <div class="hero-scroll">
+                <span>Scroll</span>
+                <div class="hero-scroll-line"></div>
+            </div>
+    </section>
+
+    <!-- ============ PROJECTS ============ -->
+    <section class="projects section-alt" id="works">
+        <div class="projects-header grid">
+            <div class="col-12">
+                <span class="section-label reveal">Selected Works</span>
+                <h2 class="reveal reveal-line">Built &amp; Imagined</h2>
+                <p class="projects-intro reveal stagger-1">Five projects spanning residential design, public
+                    architecture, and academic exploration — each a conversation between site, structure, and intention.
+                </p>
+            </div>
+        </div>
+
+        <div class="projects-showcase" id="projectsShowcase">
+ <!-- Projects loaded dynamically via script.js -->
+ </div>
+        </div>
+    </section>
+
+    <!-- ============ PROJECT DETAIL OVERLAY ============ -->
+    <div class="project-detail" id="projectDetail">
+        <button class="project-detail-close" id="detailClose" aria-label="Close project">
+            <span></span>
+            <span></span>
+        </button>
+        <div class="project-detail-content" id="detailContent">
+            <!-- Dynamically populated -->
+        </div>
+    </div>
+
+    <!-- ============ ABOUT ============ -->
+    <section class="about" id="about">
+        <div class="about-grid">
+            <div class="about-portrait reveal-left">
+                <div class="portrait-container">
+                    <img src="../assets/images/profile/me.png" alt="Shashank Agarwal" class="portrait-img">
+                    <div class="portrait-frame"></div>
+                </div>
+                <p class="portrait-caption">Gulaothi, Uttar Pradesh · India</p>
+            </div>
+            <div class="about-content">
+                <span class="section-label reveal">About</span>
+                <h2 class="reveal stagger-1">Architecture and<br><em>Research</em></h2>
+                <p class="about-bio reveal stagger-2">
+                    A strong believer in the ability of Architecture and Research combined with Design Thinking for
+                    strengthening our societies and having a positive effect on the world. Only together can we build a
+                    better future.
+                </p>
+                <p class="about-bio reveal stagger-5">
+                    I am hardworking, consistent, and keen on learning new things. Currently pursuing B.Arch with a
+                    focus on sustainable design and community-centered spaces. I look forward to contributing to
+                    meaningful projects that bridge theory and practice.
+                </p>
+
+                <div class="timeline reveal stagger-4">
+                    <h4>Education &amp; Achievements</h4>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2021 — 2026</span>
+                        <div class="timeline-content">
+                            <h5>Bachelor of Architecture</h5>
+                            <p>School of Planning, Architecture and Design, Ghaziabad</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2021</span>
+                        <div class="timeline-content">
+                            <h5>Senior Secondary School</h5>
+                            <p>Delhi City School, B.B. Nagar</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2023</span>
+                        <div class="timeline-content">
+                            <h5>Parametric Designing</h5>
+                            <p>NASA Convention Workshop</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">2024</span>
+                        <div class="timeline-content">
+                            <h5>G-SEN Trophy</h5>
+                            <p>Academic Excellence Award</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="timeline reveal stagger-4" style="margin-top: var(--space-xl);">
+                    <h4>Skills &amp; Software</h4>
+                    <div class="timeline-item">
+                        <span class="timeline-year">Design</span>
+                        <div class="timeline-content">
+                            <h5>Conceptual Thinking, Creative Modeling, 3D Visualization</h5>
+                            <p>Architectural Design &amp; Presentation</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">Software</span>
+                        <div class="timeline-content">
+                            <h5>AutoCAD, SketchUp, V-Ray, Lumion, Photoshop</h5>
+                            <p>Documentation &amp; Rendering</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="timeline-year">Soft Skills</span>
+                        <div class="timeline-content">
+                            <h5>Team Leadership, Communication, Research</h5>
+                            <p>Collaboration &amp; Project Management</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ============ CONTACT ============ -->
+    <section class="contact" id="contact">
+        <div class="contact-grid">
+            <div class="reveal">
+                <span class="section-label">Contact</span>
+                <h2 class="contact-headline">Let's Build<br><em>Something.</em></h2>
+                <p class="contact-subline">
+                    Open to collaborations, internships, and conversations about space, design, and architecture.
+                </p>
+                <a href="mailto:shashankagarwal8755@gmail.com" class="contact-email">shashankagarwal8755@gmail.com</a>
+                <p class="contact-phone">+91 72499 70010</p>
+            </div>
+            <div class="contact-right reveal stagger-2">
+                <div class="contact-links">
+                    <a href="https://instagram.com/_shashank__agarwal_" class="contact-link" target="_blank">
+                        <span class="link-label">Instagram</span>
+                        <span class="link-arrow">↗</span>
+                    </a>
+                    <a href="../public/portfolio.pdf" class="contact-link" download>
+                        <span class="link-label">Download Portfolio</span>
+                        <span class="link-arrow">↓</span>
+                    </a>
+                    <a href="#works" class="contact-link">
+                        <span class="link-label">View Projects</span>
+                        <span class="link-arrow">→</span>
+                    </a>
+                </div>
+                <div class="contact-location">
+                    <div class="location-marker"></div>
+                    <span class="location-text">Gulaothi, Bulandshahr 203408, India</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="footer-text">© 2026 Shashank Agarwal · B.Arch</p>
+            <p class="footer-text">Designed with intention · School of Planning and Architecture</p>
+        </div>
+    </footer>
+
+    <!-- ============ LIGHTBOX ============ -->
+    <div class="lightbox" id="lightbox">
+        <button class="lightbox-close" id="lightboxClose" aria-label="Close">✕</button>
+        <button class="lightbox-prev" id="lightboxPrev" aria-label="Previous">←</button>
+        <button class="lightbox-next" id="lightboxNext" aria-label="Next">→</button>
+        <div class="lightbox-content">
+            <img id="lightboxImg" src="" alt="">
+        </div>
+        <p class="lightbox-caption" id="lightboxCaption"></p>
+    </div>
+
+    <!-- ============ CUSTOM CURSOR ============ -->
+    <div class="custom-cursor" id="customCursor">
+        <div class="cursor-corners"></div>
+        <div class="cursor-outer"></div>
+        <div class="cursor-inner"></div>
+    </div>
+
+    <script src="./scripts/script.js"></script>
+</body>
+
+</html>
