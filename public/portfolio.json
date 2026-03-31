@@ -1,6 +1,6 @@
 {
   "project1": {
-    "title": "My Project Title hello",
+    "title": "shashank projecat edited...",
     "subtitle": "Project",
     "year": "2026",
     "type": "Residential",
@@ -19,8 +19,8 @@
     "tools": "AutoCAD, SketchUp, Photoshop",
     "link": "https://example.com",
     "description": [
-      "Line 1",
-      "Line 2"
+      "Optional second sentence about the process or outcome.",
+      "Optional second sentence about the process or outcome."
     ],
     "images": [
       {
@@ -86,15 +86,15 @@
     ],
     "downloads": [],
     "metadata": {
-      "title": "My Project Title hello",
+      "title": "shashank projecat edited...",
       "subtitle": "Project",
       "date": "2026",
       "year": "2026",
       "tools": "AutoCAD, SketchUp, Photoshop",
       "link": "https://example.com",
       "description": [
-        "Line 1",
-        "Line 2"
+        "Optional second sentence about the process or outcome.",
+        "Optional second sentence about the process or outcome."
       ],
       "type": "Residential",
       "location": "India",
@@ -110,21 +110,27 @@
     }
   },
   "project2": {
-    "title": "project2",
+    "title": "My Project Title hello 2222222",
     "subtitle": "Project",
     "year": "2026",
-    "type": "Project",
+    "type": "Residential",
     "location": "India",
-    "area": "Various",
-    "category": "public",
-    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
-    "details": [],
+    "area": "Multi-storey",
+    "category": "residential",
+    "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+    "details": [
+      {
+        "label": "Type",
+        "value": "Residential"
+      }
+    ],
     "heroSrc": "../assets/projects/project2/ADMIN_AND_SWIMMING_POOL_BLOCK.jpg",
-    "date": "",
-    "tools": "AutoCAD, SketchUp",
-    "link": "",
+    "date": "2026",
+    "tools": "AutoCAD, SketchUp, Photoshop",
+    "link": "https://example.com",
     "description": [
-      "Project showcase."
+      "Line 1",
+      "Line 2"
     ],
     "images": [
       {
@@ -181,24 +187,52 @@
       }
     ],
     "downloads": [],
-    "metadata": {}
+    "metadata": {
+      "title": "My Project Title hello 2222222",
+      "subtitle": "Project",
+      "date": "2026",
+      "year": "2026",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com",
+      "description": [
+        "Line 1",
+        "Line 2"
+      ],
+      "type": "Residential",
+      "location": "India",
+      "area": "Multi-storey",
+      "category": "residential",
+      "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+      "details": [
+        {
+          "label": "Type",
+          "value": "Residential"
+        }
+      ]
+    }
   },
   "project3": {
-    "title": "project3",
+    "title": "My Project Title hello 333333",
     "subtitle": "Project",
-    "year": "2026",
-    "type": "Project",
+    "year": "20werwrw26",
+    "type": "Residential",
     "location": "India",
-    "area": "Various",
-    "category": "public",
-    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
-    "details": [],
+    "area": "Multi-storey",
+    "category": "residential",
+    "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+    "details": [
+      {
+        "label": "Type",
+        "value": "Residential"
+      }
+    ],
     "heroSrc": "../assets/projects/project3/0.jpg",
-    "date": "",
-    "tools": "AutoCAD, SketchUp",
-    "link": "",
+    "date": "20ewwre26",
+    "tools": "AutoCAD, SketchUp, Photoshop",
+    "link": "https://example.com",
     "description": [
-      "Project showcase."
+      "Line 1",
+      "Line 2"
     ],
     "images": [
       {
@@ -339,24 +373,52 @@
       }
     ],
     "downloads": [],
-    "metadata": {}
+    "metadata": {
+      "title": "My Project Title hello 333333",
+      "subtitle": "Project",
+      "date": "20ewwre26",
+      "year": "20werwrw26",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com",
+      "description": [
+        "Line 1",
+        "Line 2"
+      ],
+      "type": "Residential",
+      "location": "India",
+      "area": "Multi-storey",
+      "category": "residential",
+      "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+      "details": [
+        {
+          "label": "Type",
+          "value": "Residential"
+        }
+      ]
+    }
   },
   "project4": {
-    "title": "project4",
+    "title": "My Project Title hello",
     "subtitle": "Project",
     "year": "2026",
-    "type": "Project",
+    "type": "Residential",
     "location": "India",
-    "area": "Various",
-    "category": "public",
-    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
-    "details": [],
+    "area": "Multi-storey",
+    "category": "residential",
+    "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+    "details": [
+      {
+        "label": "Type",
+        "value": "Residential"
+      }
+    ],
     "heroSrc": "../assets/projects/project4/0.jpg",
-    "date": "",
-    "tools": "AutoCAD, SketchUp",
-    "link": "",
+    "date": "2026",
+    "tools": "AutoCAD, SketchUp, Photoshop",
+    "link": "https://example.com",
     "description": [
-      "Project showcase."
+      "Line 1",
+      "Line 2"
     ],
     "images": [
       {
@@ -461,24 +523,52 @@
       }
     ],
     "downloads": [],
-    "metadata": {}
+    "metadata": {
+      "title": "My Project Title hello",
+      "subtitle": "Project",
+      "date": "2026",
+      "year": "2026",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com",
+      "description": [
+        "Line 1",
+        "Line 2"
+      ],
+      "type": "Residential",
+      "location": "India",
+      "area": "Multi-storey",
+      "category": "residential",
+      "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+      "details": [
+        {
+          "label": "Type",
+          "value": "Residential"
+        }
+      ]
+    }
   },
   "project5": {
-    "title": "project5",
+    "title": "My Project Title hello",
     "subtitle": "Project",
     "year": "2026",
-    "type": "Project",
+    "type": "Residential",
     "location": "India",
-    "area": "Various",
-    "category": "public",
-    "heroGradient": "linear-gradient(135deg, #4f46e5 0%, #1e3a8a 100%)",
-    "details": [],
+    "area": "Multi-storey",
+    "category": "residential",
+    "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+    "details": [
+      {
+        "label": "Type",
+        "value": "Residential"
+      }
+    ],
     "heroSrc": "../assets/projects/project5/9.jpg",
-    "date": "",
-    "tools": "AutoCAD, SketchUp",
-    "link": "",
+    "date": "2026",
+    "tools": "AutoCAD, SketchUp, Photoshop",
+    "link": "https://example.com",
     "description": [
-      "Project showcase."
+      "Line 1",
+      "Line 2"
     ],
     "images": [
       {
@@ -507,6 +597,28 @@
       }
     ],
     "downloads": [],
-    "metadata": {}
+    "metadata": {
+      "title": "My Project Title hello",
+      "subtitle": "Project",
+      "date": "2026",
+      "year": "2026",
+      "tools": "AutoCAD, SketchUp, Photoshop",
+      "link": "https://example.com",
+      "description": [
+        "Line 1",
+        "Line 2"
+      ],
+      "type": "Residential",
+      "location": "India",
+      "area": "Multi-storey",
+      "category": "residential",
+      "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
+      "details": [
+        {
+          "label": "Type",
+          "value": "Residential"
+        }
+      ]
+    }
   }
 }
