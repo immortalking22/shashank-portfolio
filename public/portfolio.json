@@ -1,22 +1,22 @@
 {
   "project1": {
-    "title": "shashank projecat edited...",
+    "title": "PROPOSED MEDICAL COLLEGE & ASSOCIATED HOSPITAL AT KAKRYAL, KATRA, JAMMU & KASHMIR",
     "subtitle": "Project",
-    "year": "2026",
-    "type": "Residential",
+    "year": "2025-2026",
+    "type": "Institutional Buildings",
     "location": "India",
-    "area": "Multi-storey",
-    "category": "residential",
+    "area": "34.7 ACRE(140578 SQ.M)",
+    "category": "Institutional",
     "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
     "details": [
       {
         "label": "Type",
-        "value": "Residential"
+        "value": "Institutional"
       }
     ],
-    "heroSrc": "../assets/projects/project1/9TH_SEM_C0_ST-7_BY_SA_PAGE-0001.jpg",
-    "date": "2026",
-    "tools": "AutoCAD, SketchUp, Photoshop",
+    "heroSrc": "../assets/projects/project1/9TH_SEM_ST-0_BY_SA.jpeg",
+    "date": "____",
+    "tools": "AutoCAD, SketchUp, Photoshop, Lumion",
     "link": "https://example.com",
     "description": [
       "Optional second sentence about the process or outcome.",
@@ -24,108 +24,104 @@
     ],
     "images": [
       {
-        "src": "../assets/projects/project1/9TH_SEM_C0_ST-7_BY_SA_PAGE-0001.jpg",
-        "caption": "9TH SEM C0 ST 7 BY SA PAGE 0001"
+        "src": "../assets/projects/project1/9TH_SEM_ST-0_BY_SA.jpeg",
+        "caption": "9TH SEM ST 0 BY SA"
       },
       {
-        "src": "../assets/projects/project1/9TH_SEM_CS_ST-2_BY_SA.jpg",
-        "caption": "9TH SEM CS ST 2 BY SA"
+        "src": "../assets/projects/project1/9TH_SEM_ST-1_BY_SA.jpg",
+        "caption": "9TH SEM ST 1 BY SA"
       },
       {
-        "src": "../assets/projects/project1/9TH_SEM_CS_ST-3_BY_SA.jpg",
-        "caption": "9TH SEM CS ST 3 BY SA"
+        "src": "../assets/projects/project1/9TH_SEM_ST-2_BY_SA.jpg",
+        "caption": "9TH SEM ST 2 BY SA"
       },
       {
-        "src": "../assets/projects/project1/9TH_SEM_INTRO_ST-1_BY_SA.jpg",
-        "caption": "9TH SEM INTRO ST 1 BY SA"
+        "src": "../assets/projects/project1/9TH_SEM_ST-3_BY_SA.jpg",
+        "caption": "9TH SEM ST 3 BY SA"
       },
       {
-        "src": "../assets/projects/project1/9TH_SEM_LS_ST-5_BY_SA.jpg",
-        "caption": "9TH SEM LS ST 5 BY SA"
+        "src": "../assets/projects/project1/9TH_SEM_ST-5_BY_SA.jpg",
+        "caption": "9TH SEM ST 5 BY SA"
       },
       {
-        "src": "../assets/projects/project1/9TH_SEM_SA_ST-6_BY_SA.jpg",
-        "caption": "9TH SEM SA ST 6 BY SA"
+        "src": "../assets/projects/project1/9TH_SEM_ST-6_BY_SA.jpg",
+        "caption": "9TH SEM ST 6 BY SA"
       },
       {
-        "src": "../assets/projects/project1/ELEVATION.jpg",
-        "caption": "ELEVATION"
+        "src": "../assets/projects/project1/9TH_SEM_ST-7_BY_SA.jpg",
+        "caption": "9TH SEM ST 7 BY SA"
       },
       {
-        "src": "../assets/projects/project1/FIRST_FLOOR_PLAN.jpg",
-        "caption": "FIRST FLOOR PLAN"
+        "src": "../assets/projects/project1/9TH_SEM_ST-8_BY_SA.jpg",
+        "caption": "9TH SEM ST 8 BY SA"
       },
       {
-        "src": "../assets/projects/project1/FOUTH_FLOOR_PLAN.jpg",
-        "caption": "FOUTH FLOOR PLAN"
+        "src": "../assets/projects/project1/9TH_SEM_ST-9_BY_SA.jpg",
+        "caption": "9TH SEM ST 9 BY SA"
       },
       {
-        "src": "../assets/projects/project1/SECOND_FLOOR_PLAN.jpg",
-        "caption": "SECOND FLOOR PLAN"
+        "src": "../assets/projects/project1/9TH_SEM_ST-10_BY_SA.jpg",
+        "caption": "9TH SEM ST 10 BY SA"
       },
       {
-        "src": "../assets/projects/project1/SECTION.jpg",
-        "caption": "SECTION"
+        "src": "../assets/projects/project1/9TH_SEM_ST-11_BY_SA.jpg",
+        "caption": "9TH SEM ST 11 BY SA"
       },
       {
-        "src": "../assets/projects/project1/SITE_PLAN.jpg",
-        "caption": "SITE PLAN"
+        "src": "../assets/projects/project1/9TH_SEM_ST-12_BY_SA.jpg",
+        "caption": "9TH SEM ST 12 BY SA"
       },
       {
-        "src": "../assets/projects/project1/ST-2_(THRUST_AREA).jpg",
-        "caption": "ST 2 (THRUST AREA)"
+        "src": "../assets/projects/project1/9TH_SEM_ST-13_BY_SA.jpg",
+        "caption": "9TH SEM ST 13 BY SA"
       },
       {
-        "src": "../assets/projects/project1/TERRACE_FLOOR_PLAN.jpg",
-        "caption": "TERRACE FLOOR PLAN"
-      },
-      {
-        "src": "../assets/projects/project1/WHATSAPP_IMAGE_2026-03-16_AT_6.11.59_PM.jpeg",
-        "caption": "WHATSAPP IMAGE 2026 03 16 AT 6.11.59 PM"
+        "src": "../assets/projects/project1/9TH_SEM_ST-14_BY_SA.jpg",
+        "caption": "9TH SEM ST 14 BY SA"
       }
     ],
     "downloads": [],
     "metadata": {
-      "title": "shashank projecat edited...",
+      "title": "PROPOSED MEDICAL COLLEGE & ASSOCIATED HOSPITAL AT KAKRYAL, KATRA, JAMMU & KASHMIR",
       "subtitle": "Project",
-      "date": "2026",
-      "year": "2026",
-      "tools": "AutoCAD, SketchUp, Photoshop",
+      "date": "____",
+      "year": "2025-2026",
+      "tools": "AutoCAD, SketchUp, Photoshop, Lumion",
       "link": "https://example.com",
       "description": [
         "Optional second sentence about the process or outcome.",
         "Optional second sentence about the process or outcome."
       ],
-      "type": "Residential",
+      "type": "Institutional Buildings",
       "location": "India",
-      "area": "Multi-storey",
-      "category": "residential",
+      "area": "34.7 ACRE(140578 SQ.M)",
+      "category": "Institutional",
       "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
       "details": [
         {
           "label": "Type",
-          "value": "Residential"
+          "value": "Institutional"
         }
       ]
     }
   },
   "project2": {
-    "title": "My Project Title hello 2222222",
-    "subtitle": "Project",
-    "year": "2026",
-    "type": "Residential",
+    "title": "Sports complex",
+    "subtitle": "Institutional Buildings",
+    "year": "2023-2024",
+    "type": "Institutional Buildings",
     "location": "India",
-    "area": "Multi-storey",
-    "category": "residential",
+    "area": "7.0670_Acer",
+    "category": "Institutional Buildings",
     "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
     "details": [
       {
         "label": "Type",
-        "value": "Residential"
+        "value": "Institutional Buildings"
       }
     ],
-    "heroSrc": "../assets/projects/project2/ADMIN_AND_SWIMMING_POOL_BLOCK.jpg",
-    "date": "2026",
+    "heroSrc": "../assets/projects/project2/5TH_SEM_ST-1_BY_SA.jpg",
+    "date": "_____",
     "tools": "AutoCAD, SketchUp, Photoshop",
     "link": "https://example.com",
     "description": [
@@ -134,87 +130,79 @@
     ],
     "images": [
       {
-        "src": "../assets/projects/project2/ADMIN_AND_SWIMMING_POOL_BLOCK.jpg",
-        "caption": "ADMIN AND SWIMMING POOL BLOCK"
+        "src": "../assets/projects/project2/5TH_SEM_ST-1_BY_SA.jpg",
+        "caption": "5TH SEM ST 1 BY SA"
       },
       {
-        "src": "../assets/projects/project2/CASE_STUDY_1.jpg",
-        "caption": "CASE STUDY 1"
+        "src": "../assets/projects/project2/5TH_SEM_ST-2_BY_SA.jpg",
+        "caption": "5TH SEM ST 2 BY SA"
       },
       {
-        "src": "../assets/projects/project2/CASE_STUDY_2.jpg",
-        "caption": "CASE STUDY 2"
+        "src": "../assets/projects/project2/5TH_SEM_ST-3_BY_SA.jpg",
+        "caption": "5TH SEM ST 3 BY SA"
       },
       {
-        "src": "../assets/projects/project2/CASE_STUDY_3.jpg",
-        "caption": "CASE STUDY 3"
+        "src": "../assets/projects/project2/5TH_SEM_ST-4_BY_SA.jpg",
+        "caption": "5TH SEM ST 4 BY SA"
       },
       {
-        "src": "../assets/projects/project2/CONCEPT.jpg",
-        "caption": "CONCEPT"
+        "src": "../assets/projects/project2/5TH_SEM_ST-5_BY_SA.jpg",
+        "caption": "5TH SEM ST 5 BY SA"
       },
       {
-        "src": "../assets/projects/project2/MAIN_BUILDING_BLOCK_1.jpg",
-        "caption": "MAIN BUILDING BLOCK 1"
+        "src": "../assets/projects/project2/5TH_SEM_ST-6_BY_SA.jpg",
+        "caption": "5TH SEM ST 6 BY SA"
       },
       {
-        "src": "../assets/projects/project2/MAIN_BUILDING_BLOCK_2.jpg",
-        "caption": "MAIN BUILDING BLOCK 2"
+        "src": "../assets/projects/project2/5TH_SEM_ST-7_BY_SA.jpg",
+        "caption": "5TH SEM ST 7 BY SA"
       },
       {
-        "src": "../assets/projects/project2/PNEUMATIC_STRUCTURE_2.jpg",
-        "caption": "PNEUMATIC STRUCTURE 2"
+        "src": "../assets/projects/project2/5TH_SEM_ST-8_BY_SA.png",
+        "caption": "5TH SEM ST 8 BY SA"
       },
       {
-        "src": "../assets/projects/project2/PNEUMATIC_STRUCTURE.jpg",
-        "caption": "PNEUMATIC STRUCTURE"
+        "src": "../assets/projects/project2/5TH_SEM_ST-9_BY_SA.jpg",
+        "caption": "5TH SEM ST 9 BY SA"
       },
       {
-        "src": "../assets/projects/project2/SHEET_NO.7.jpg",
-        "caption": "SHEET NO.7"
+        "src": "../assets/projects/project2/5TH_SEM_ST-10_BY_SA.jpg",
+        "caption": "5TH SEM ST 10 BY SA"
       },
       {
-        "src": "../assets/projects/project2/SITE_ANALYIS.jpg",
-        "caption": "SITE ANALYIS"
-      },
-      {
-        "src": "../assets/projects/project2/SITE_PLAN.png",
-        "caption": "SITE PLAN"
-      },
-      {
-        "src": "../assets/projects/project2/STANDARDS_SHEET.jpg",
-        "caption": "STANDARDS SHEET"
+        "src": "../assets/projects/project2/5TH_SEM_ST-11_BY_SA.jpg",
+        "caption": "5TH SEM ST 11 BY SA"
       }
     ],
     "downloads": [],
     "metadata": {
-      "title": "My Project Title hello 2222222",
-      "subtitle": "Project",
-      "date": "2026",
-      "year": "2026",
+      "title": "Sports complex",
+      "subtitle": "Institutional Buildings",
+      "date": "_____",
+      "year": "2023-2024",
       "tools": "AutoCAD, SketchUp, Photoshop",
       "link": "https://example.com",
       "description": [
         "Line 1",
         "Line 2"
       ],
-      "type": "Residential",
+      "type": "Institutional Buildings",
       "location": "India",
-      "area": "Multi-storey",
-      "category": "residential",
+      "area": "7.0670_Acer",
+      "category": "Institutional Buildings",
       "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
       "details": [
         {
           "label": "Type",
-          "value": "Residential"
+          "value": "Institutional Buildings"
         }
       ]
     }
   },
   "project3": {
-    "title": "My Project Title hello 333333",
+    "title": "Group Housing",
     "subtitle": "Project",
-    "year": "20werwrw26",
+    "year": "2023-2024",
     "type": "Residential",
     "location": "India",
     "area": "Multi-storey",
@@ -374,10 +362,10 @@
     ],
     "downloads": [],
     "metadata": {
-      "title": "My Project Title hello 333333",
+      "title": "Group Housing",
       "subtitle": "Project",
       "date": "20ewwre26",
-      "year": "20werwrw26",
+      "year": "2023-2024",
       "tools": "AutoCAD, SketchUp, Photoshop",
       "link": "https://example.com",
       "description": [
@@ -398,9 +386,9 @@
     }
   },
   "project4": {
-    "title": "My Project Title hello",
+    "title": "TOD",
     "subtitle": "Project",
-    "year": "2026",
+    "year": "2025",
     "type": "Residential",
     "location": "India",
     "area": "Multi-storey",
@@ -524,10 +512,10 @@
     ],
     "downloads": [],
     "metadata": {
-      "title": "My Project Title hello",
+      "title": "TOD",
       "subtitle": "Project",
       "date": "2026",
-      "year": "2026",
+      "year": "2025",
       "tools": "AutoCAD, SketchUp, Photoshop",
       "link": "https://example.com",
       "description": [
@@ -548,7 +536,7 @@
     }
   },
   "project5": {
-    "title": "My Project Title hello ... edited nasdjfnsdjfn;",
+    "title": "SOME OTHER WORK;",
     "subtitle": "Project",
     "year": "2026",
     "type": "Residential",
@@ -598,7 +586,7 @@
     ],
     "downloads": [],
     "metadata": {
-      "title": "My Project Title hello ... edited nasdjfnsdjfn;",
+      "title": "SOME OTHER WORK;",
       "subtitle": "Project",
       "date": "2026",
       "year": "2026",

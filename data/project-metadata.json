@@ -21,56 +21,56 @@
     }
   },
   "project1": {
-    "title": "shashank projecat edited...",
+    "title": "PROPOSED MEDICAL COLLEGE & ASSOCIATED HOSPITAL AT KAKRYAL, KATRA, JAMMU & KASHMIR",
     "subtitle": "Project",
-    "date": "2026",
-    "year": "2026",
-    "tools": "AutoCAD, SketchUp, Photoshop",
+    "date": "____",
+    "year": "2025-2026",
+    "tools": "AutoCAD, SketchUp, Photoshop, Lumion",
     "link": "https://example.com",
     "description": [
       "Optional second sentence about the process or outcome.",
       "Optional second sentence about the process or outcome."
     ],
-    "type": "Residential",
+    "type": "Institutional Buildings",
     "location": "India",
-    "area": "Multi-storey",
-    "category": "residential",
+    "area": "34.7 ACRE(140578 SQ.M)",
+    "category": "Institutional",
     "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
     "details": [
       {
         "label": "Type",
-        "value": "Residential"
+        "value": "Institutional"
       }
     ]
   },
   "project2": {
-    "title": "My Project Title hello 2222222",
-    "subtitle": "Project",
-    "date": "2026",
-    "year": "2026",
+    "title": "Sports complex",
+    "subtitle": "Institutional Buildings",
+    "date": "_____",
+    "year": "2023-2024",
     "tools": "AutoCAD, SketchUp, Photoshop",
     "link": "https://example.com",
     "description": [
       "Line 1",
       "Line 2"
     ],
-    "type": "Residential",
+    "type": "Institutional Buildings",
     "location": "India",
-    "area": "Multi-storey",
-    "category": "residential",
+    "area": "7.0670_Acer",
+    "category": "Institutional Buildings",
     "heroGradient": "linear-gradient(135deg, #B8A88C 0%, #7A6A58 100%)",
     "details": [
       {
         "label": "Type",
-        "value": "Residential"
+        "value": "Institutional Buildings"
       }
     ]
   },
   "project3": {
-    "title": "My Project Title hello 333333",
+    "title": "Group Housing",
     "subtitle": "Project",
     "date": "20ewwre26",
-    "year": "20werwrw26",
+    "year": "2023-2024",
     "tools": "AutoCAD, SketchUp, Photoshop",
     "link": "https://example.com",
     "description": [
@@ -90,10 +90,10 @@
     ]
   },
   "project4": {
-    "title": "My Project Title hello",
+    "title": "TOD",
     "subtitle": "Project",
     "date": "2026",
-    "year": "2026",
+    "year": "2025",
     "tools": "AutoCAD, SketchUp, Photoshop",
     "link": "https://example.com",
     "description": [
@@ -113,7 +113,7 @@
     ]
   },
   "project5": {
-    "title": "My Project Title hello ... edited nasdjfnsdjfn;",
+    "title": "SOME OTHER WORK;",
     "subtitle": "Project",
     "date": "2026",
     "year": "2026",
